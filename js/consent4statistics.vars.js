@@ -1,4 +1,10 @@
-//RADIUS17_COPYRIGHT_TEMPLATE
+/**
+ * Consent for statistics (JavaScript version)
+ * Copyright (c) 2007-2019 Radius17 - info<a>radius17<d>ru | http://radius17.ru
+ * Licensed under MIT license
+ * @author Radius17
+ * @version 1.0.0
+ */
 
 var c4s_lifetime=365; 
 var c4s_warning_theme='green'; // red, blue, green
